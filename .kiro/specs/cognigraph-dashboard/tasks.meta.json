@@ -1,0 +1,263 @@
+{
+  "pbtResults": {
+    "2.3 Write property test for mock data structural integrity": {
+      "status": "passed",
+      "lastRunTimestamp": 1784586491047
+    },
+    "3.3 Write property test for textarea state synchronization": {
+      "status": "passed",
+      "lastRunTimestamp": 1784587142301
+    }
+  },
+  "executionHistory": {
+    "1.1 Initialize Next.js 14 project with App Router, Tailwind CSS, and TypeScript": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583579131
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583590019
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784584572105
+      }
+    ],
+    "1.2 Install and configure shadcn/ui and Lucide icons": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580231
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784584578500
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585196399
+      }
+    ],
+    "1.3 Create root layout and empty dashboard page shell": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580360
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585202964
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585500231
+      }
+    ],
+    "2.1 Define TypeScript interfaces in `src/lib/types.ts`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580422
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585504379
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585685367
+      }
+    ],
+    "2.2 Create static mock data file at `src/lib/mock-data.ts`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580492
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585688992
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586003104
+      }
+    ],
+    "2.3 Write property test for mock data structural integrity": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580568
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586007073
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586537618
+      }
+    ],
+    "3.1 Create the `IntentPanel` component at `src/components/intent-panel.tsx`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580653
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586007897
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586538592
+      }
+    ],
+    "3.2 Wire IntentPanel into the dashboard page": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580723
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586542519
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784587158257
+      }
+    ],
+    "3.3 Write property test for textarea state synchronization": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580819
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586543450
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784587159075
+      }
+    ],
+    "4.1 Create the `GraphNode` component at `src/components/graph-node.tsx`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580892
+      },
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784587163647
+      }
+    ],
+    "4.2 Create the `DecisionGraph` component at `src/components/decision-graph.tsx`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583580968
+      }
+    ],
+    "4.3 Wire DecisionGraph into the dashboard page": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581036
+      }
+    ],
+    "4.4 Write property test for status-to-color mapping": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581104
+      }
+    ],
+    "4.5 Write property test for node type visual representation": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581184
+      }
+    ],
+    "4.6 Write property test for edge rendering completeness": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581251
+      }
+    ],
+    "5.1 Create the `RemediationPanel` component at `src/components/remediation-panel.tsx`": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581322
+      }
+    ],
+    "5.2 Wire RemediationPanel into the dashboard page": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581389
+      }
+    ],
+    "5.3 Write property test for diff line classification": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581491
+      }
+    ],
+    "5.4 Final checkpoint": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784583581557
+      }
+    ],
+    "1. Project scaffolding and setup": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784585500331
+      }
+    ],
+    "2. Mock data types and static data file creation": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784586537694
+      }
+    ],
+    "3. Three-panel layout with Intent Panel implementation": [
+      {
+        "executionId": "0ae7a0b6-908f-4d85-9af1-fae67e959907",
+        "chatSessionId": "sess_baadf25a-d1b4-46b9-a631-a8304b95dd9f",
+        "timestamp": 1784587159133
+      }
+    ]
+  }
+}
