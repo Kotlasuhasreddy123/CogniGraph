@@ -184,4 +184,6 @@ See `Cognigraph, openai build week.mp4` in the repository root.
 
 ## License
 
-This project was built for the OpenAI DevPost Hackathon (Build Week 2025).
+This project is licensed under the [MIT License](LICENSE).
+
+Built for the OpenAI DevPost Hackathon (Build Week 2025).
